@@ -30,7 +30,7 @@ This project analyzes a large-scale cancer dataset of 50,000 patients using **Ex
 
 | Power BI Dashboard | Tableau Dashboard |
 |--------------------|-------------------|
-| ![Power BI](visuals/powerbi-dashboard.png) | ![Tableau]([visuals](https://github.com/Apollonartemius/Cancer-cost-analytics/commit/15141cfeb230415567c23af4ade80ba4b1935e27)/tableau-dashboard.png) |
+| ![Power BI](visuals/powerbi-dashboard.png) | ![Tableau]([visuals](https://github.com/Apollonartemius/Cancer-cost-analytics/commit/15141cfeb230415567c23af4ade80ba4b1935e27)/tableau-pic.png) |
 
 > *Note: Replace the image filenames and links with your actual uploaded images inside the `visuals/` folder.*
 
