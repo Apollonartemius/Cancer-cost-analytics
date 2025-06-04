@@ -33,5 +33,11 @@ This project analyzes a large-scale cancer dataset of 50,000 patients using **Ex
 | ![Tableau](tableau-pic.png) | ![Tableau](Powerbi-pic.png) |
 
 
+6.  Downloadable Dashboard Files
+
+- [Power BI (.pbix)](dashboards/cancer-risk-dashboard.pbix)
+- [Tableau (.twbx)](dashboards/cancer-risk-tableau.twbx)
+
+
 
 
