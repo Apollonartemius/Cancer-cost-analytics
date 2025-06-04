@@ -34,5 +34,5 @@ This project analyzes a large-scale cancer dataset of 50,000 patients using **Ex
 
 > *Note: Replace the image filenames and links with your actual uploaded images inside the `visuals/` folder.*
 
-## 📂 Project Structure
+
 
