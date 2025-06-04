@@ -28,9 +28,9 @@ This project analyzes a large-scale cancer dataset of 50,000 patients using **Ex
 
 5. Sample Visuals
 
-| Tableau Dashboard | Tableau Dashboard |
+| Tableau Dashboard | Power BI Dashboard |
 |--------------------|-------------------|
-| ![Tableau](tableau-pic.png) | ![Tableau]tableau-pic.png |
+| ![Tableau](tableau-pic.png) | ![Tableau](Powerbi-pic.png) |
 
 > *Note: Replace the image filenames and links with your actual uploaded images inside the `visuals/` folder.*
 
